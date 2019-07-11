@@ -46,7 +46,7 @@ See full input arguments via :
 >  - [ ] random cutout (provided in transforms)
 >  - [ ] random rotate with small angle (provided in transforms)
 
->**@song zeyu**
+>@**song zeyu**
 >  - [ ] pretrain resnet/se-resnet/se-resnext from scratch
 >  - [ ] deeplab with focal loss
 >  - [ ] deeplab with class wights from training set 
