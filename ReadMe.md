@@ -30,11 +30,11 @@ See full input arguments via :
 >  - [ ] use all images w or w/o label as trainset
 
 >**@song zeyu**
->  - [1] choose crop images with label as trainset 
->  - [2] decrease dilation of aspp module in deeplabv3 (increase IOU)
->  - [3] train with 1024 * 1024
->  - [4] add u-net like decoders (increase classification acc/ decrease IOU)
->  - [5] combine 2 and 4 get 0.32 test score 
+>  - [ ] choose crop images with label as trainset 
+>  - [ ] decrease dilation of aspp module in deeplabv3 (increase IOU)
+>  - [ ] train with 1024 * 1024
+>  - [ ] add u-net like decoders (increase classification acc/ decrease IOU)
+>  - [ ] combine 2 and 4 get 0.32 test score 
 
 
 >@**wei xinran**
